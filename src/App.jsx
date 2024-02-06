@@ -1,10 +1,9 @@
-import Card from "./Card";
+import UserGreeting from "./UserGreeting.jsx";
 
 function App() {
   return (
     <>
-      <Card/>
-
+      
     </>
   );
 }
