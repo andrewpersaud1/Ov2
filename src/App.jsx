@@ -1,9 +1,8 @@
-import UserGreeting from "./UserGreeting.jsx";
-
+import List from "./List";
 function App() {
   return (
     <>
-      
+      <List/>
     </>
   );
 }
